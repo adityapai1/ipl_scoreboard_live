@@ -11,9 +11,9 @@ This project emerged from the need for a crisp and informative dashboard that wi
 ## Points Table
 ![Screenshot 2024-07-16 150653](https://github.com/user-attachments/assets/54478c72-b7c0-4141-931b-665c93e917d8)
 
-## Video Demo 
 
-https://github.com/user-attachments/assets/1f7e49c1-1477-479d-98e2-e52a75ed14b8
+## Video Demo 
+https://github.com/user-attachments/assets/cfb30cce-2e1d-4215-b580-0887960e5f59
 
 
 
