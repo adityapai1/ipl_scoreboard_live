@@ -1,4 +1,4 @@
-# 🏏IPL Scoreboard Live
+# 🏏 IPL Scoreboard Live
 Revolutionizing Cricket Fan Experience with Real-Time, Data-Driven Insights
 ## Objective
 This project emerged from the need for a crisp and informative dashboard that will make it possible for cricket geeks to analye the live matches and their stats. The project harnessed the power of data engineering and visualization to create a dynamic, interactive platform.
