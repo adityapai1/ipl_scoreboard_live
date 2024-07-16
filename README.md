@@ -1,16 +1,20 @@
 
-# IPL Scoreboard Live🏏
+# 🏏 IPL Scoreboard Live
 Revolutionizing Cricket Fan Experience with Real-Time, Data-Driven Insights
 
-
-
 ## Objective
-The dynamic nature of cricket matches coupled with limited access to comprehensive, real-time data often leaves fans with a fragmented and incomplete understanding of the game.
 This project emerged from the need for a crisp and informative dashboard that will make it possible for cricket geeks to analye the live matches and their stats. The project harnessed the power of data engineering and visualization to create a dynamic, interactive platform.
+
+## Dashboard View
+![Screenshot 2024-07-16 150634](https://github.com/user-attachments/assets/65c2fb7a-e619-4d9a-a931-f10e1fb17482)
+
+## Points Table
+![Screenshot 2024-07-16 150653](https://github.com/user-attachments/assets/54478c72-b7c0-4141-931b-665c93e917d8)
+
 
 ## Key Innovations
 * API Optimization: Employed advanced data manipulation techniques to extract maximum value from limited API requests, ensuring continuous data flow and real-time updates.
-* Data Transformation: Masterfully transformed raw data into useful insights through preprocessing, unpivoting, filtering, and data modeling, creating a robust data foundation.
+* Data Transformation: Transformed raw data into useful insights through preprocessing i.e. unpivoting, filtering the data, and data modeling by creating a robust data foundation.
 * Interactive Visual Storytelling: Designed a visually stunning and intuitive dashboard that seamlessly integrates multiple data elements, providing fans with a holistic view of the match.
   
 ## Data Source 
@@ -19,13 +23,15 @@ This project emerged from the need for a crisp and informative dashboard that wi
 The limitations of the free tier API allowed a hard limit of 100 requests/day, and 5 requests/sec. To combat this limitation in a real world scenario with much more requests, the project uses data modelling by using a reference of the fetched data.
 
 ## Data Model
-![Screenshot 2024-07-14 165305](https://github.com/user-attachments/assets/5addd776-3438-4179-8867-28edbf478182)
+![Screenshot 2024-07-16 150813](https://github.com/user-attachments/assets/b61a2515-4aaf-4413-935c-674ca3c00db3)
+
 
 
 ## Built With : PowerBI <img src="https://img.icons8.com/?size=100&id=NxWCUzipgfRt&format=png&color=000000" width="24" alt="icon">
 
-## Features
-![Screenshot 2024-07-14 165305](https://github.com/user-attachments/assets/c10d5d50-ae88-404c-bc0b-c6657f11cc49)
+## Video Demo 
+![Screenshot 2024-07-16 150634](https://github.com/user-attachments/assets/65c2fb7a-e619-4d9a-a931-f10e1fb17482)
+
 
 
 ## Impact
