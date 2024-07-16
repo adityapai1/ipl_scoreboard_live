@@ -7,7 +7,7 @@ Sales data proves to be pivotal in guaging the bussiness strategies of individua
 ## 📌Database Used : MySQL
 
 
-##Video Demo 
+## 📌Video Demo 
 https://github.com/user-attachments/assets/cfb30cce-2e1d-4215-b580-0887960e5f59
 
 
