@@ -11,6 +11,11 @@ This project emerged from the need for a crisp and informative dashboard that wi
 ## Points Table
 ![Screenshot 2024-07-16 150653](https://github.com/user-attachments/assets/54478c72-b7c0-4141-931b-665c93e917d8)
 
+## Video Demo 
+
+https://github.com/user-attachments/assets/1f7e49c1-1477-479d-98e2-e52a75ed14b8
+
+
 
 ## Key Innovations
 * API Optimization: Employed advanced data manipulation techniques to extract maximum value from limited API requests, ensuring continuous data flow and real-time updates.
@@ -29,8 +34,7 @@ The limitations of the free tier API allowed a hard limit of 100 requests/day, a
 
 ## Built With : PowerBI <img src="https://img.icons8.com/?size=100&id=NxWCUzipgfRt&format=png&color=000000" width="24" alt="icon">
 
-## Video Demo 
-![Screenshot 2024-07-16 150634](https://github.com/user-attachments/assets/65c2fb7a-e619-4d9a-a931-f10e1fb17482)
+
 
 
 
